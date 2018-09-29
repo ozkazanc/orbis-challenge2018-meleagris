@@ -3,7 +3,6 @@ from PythonClientAPI.game.Entities import FriendlyUnit, EnemyUnit, Tile
 from PythonClientAPI.game.Enums import Team
 from PythonClientAPI.game.World import World
 from PythonClientAPI.game.TileUtils import TileUtils
-
 class PlayerAI:
     def __init__(self):
         ''' Initialize! '''
